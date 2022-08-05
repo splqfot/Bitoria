@@ -4,7 +4,7 @@
 size = Vector2( 16, 16 )
 
 [sub_resource type="BoxShape" id=2]
-extents = Vector3( 64, 0.204, 64 )
+extents = Vector3( 87.4228, 0.204, 91.6765 )
 
 [node name="Spatial" type="Spatial"]
 
@@ -17,4 +17,5 @@ material/0 = null
 transform = Transform( 0.0915112, 0, 0, 0, 1, 0, 0, 0, 0.0806683, 0, 0, 0 )
 
 [node name="CollisionShape" type="CollisionShape" parent="MeshInstance/StaticBody"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1.07982, 0, 0, 0 )
 shape = SubResource( 2 )
