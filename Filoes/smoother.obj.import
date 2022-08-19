@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/smoother.obj-516f9295b7fbbf55378c47a36786def7.mesh"
+
+[deps]
+
+files=[ "res://.import/smoother.obj-516f9295b7fbbf55378c47a36786def7.mesh" ]
+
+source_file="res://Filoes/smoother.obj"
+dest_files=[ "res://.import/smoother.obj-516f9295b7fbbf55378c47a36786def7.mesh", "res://.import/smoother.obj-516f9295b7fbbf55378c47a36786def7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

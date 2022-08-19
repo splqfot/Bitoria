@@ -24,6 +24,14 @@ config/name="Bitoria"
 run/main_scene="res://Filoes/Main.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+MouseCursor="*res://Filoes/Mouse_Cursor.gd"
+
+[display]
+
+mouse_cursor/custom_image="res://Mouse_Cursor.png"
+
 [input]
 
 move_forward={
